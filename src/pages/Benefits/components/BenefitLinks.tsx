@@ -20,7 +20,7 @@ const BenefitLinks = () => {
         </h2>
 
         <p className="text-center text-lg text-gray-600 max-w-3xl mx-auto mb-12">
-          Best In Class Taviel Bags Design Software
+          Best in Class Photo and Image Editing Software for Bags Design
         </p>
 
 

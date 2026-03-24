@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Taviel
             </Link>
             <p className="text-gray-300 max-w-md">
-              Best In Class Taviel Bags Design Software
+              Best in Class Photo and Image Editing Software for Bags Design
             </p>
 
 

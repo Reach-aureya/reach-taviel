@@ -90,7 +90,7 @@ const Header = () => {
 
           {/* TAGLINE */}
           <p className="mt-3 text-base text-gray-600 text-center lg:text-right">
-            REACH Taviel for Bags Design is a specialized digital workflow that helps bag and luggage brands move from sketch to polished visual, faster and with far more creative control.  
+            Best in Class Photo and Image Editing Software for Bags Design
           </p>
 
         </div>
